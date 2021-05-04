@@ -6,3 +6,6 @@
 - push
 - branch
 - merge
+- crash
+- meld
+- markdown
