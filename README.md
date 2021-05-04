@@ -6,3 +6,5 @@
 - push
 - branch
 - merge
+- conflict
+- meld
