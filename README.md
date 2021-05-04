@@ -5,3 +5,4 @@
 - commit
 - push
 - branch
+- merge
