@@ -1,4 +1,4 @@
-# Git_Gui_Test
+# Git Gui Test
 
 ## 첫번째 버전 (Commit) 만들기!
 
